@@ -2,7 +2,6 @@
   "name": "mini-monster-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://denisse-ab.github.io/mini-monster-pages",
   "author": {
     "name": "Denisse Abreu",
     "email": "info@codingpr.com"
@@ -11,6 +10,7 @@
     "type": "individual",
     "url": "https://www.paypal.com/donate?business=263QJ8D5YHR8E&no_recurring=0&item_name=I+believe+in+open+source%2C+but+a+little+donation+will+be+appreciated.+Thanks%21&currency_code=USD"
   },
+  "homepage": "https://denisse-ab.github.io/mini-monster-pages",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -28,10 +28,10 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
