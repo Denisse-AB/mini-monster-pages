@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mini-monster-pages/static/css/main.fe1de48b.css",
+    "main.js": "/mini-monster-pages/static/js/main.8f665736.js",
+    "static/js/551.66179215.chunk.js": "/mini-monster-pages/static/js/551.66179215.chunk.js",
+    "static/js/355.20d69483.chunk.js": "/mini-monster-pages/static/js/355.20d69483.chunk.js",
+    "static/js/630.3d052c6c.chunk.js": "/mini-monster-pages/static/js/630.3d052c6c.chunk.js",
+    "static/js/610.4971ed9a.chunk.js": "/mini-monster-pages/static/js/610.4971ed9a.chunk.js",
+    "static/js/898.76cde1e5.chunk.js": "/mini-monster-pages/static/js/898.76cde1e5.chunk.js",
+    "static/js/787.095d6bf4.chunk.js": "/mini-monster-pages/static/js/787.095d6bf4.chunk.js",
+    "index.html": "/mini-monster-pages/index.html",
+    "main.fe1de48b.css.map": "/mini-monster-pages/static/css/main.fe1de48b.css.map",
+    "main.8f665736.js.map": "/mini-monster-pages/static/js/main.8f665736.js.map",
+    "551.66179215.chunk.js.map": "/mini-monster-pages/static/js/551.66179215.chunk.js.map",
+    "355.20d69483.chunk.js.map": "/mini-monster-pages/static/js/355.20d69483.chunk.js.map",
+    "630.3d052c6c.chunk.js.map": "/mini-monster-pages/static/js/630.3d052c6c.chunk.js.map",
+    "610.4971ed9a.chunk.js.map": "/mini-monster-pages/static/js/610.4971ed9a.chunk.js.map",
+    "898.76cde1e5.chunk.js.map": "/mini-monster-pages/static/js/898.76cde1e5.chunk.js.map",
+    "787.095d6bf4.chunk.js.map": "/mini-monster-pages/static/js/787.095d6bf4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe1de48b.css",
+    "static/js/main.8f665736.js"
+  ]
+}
